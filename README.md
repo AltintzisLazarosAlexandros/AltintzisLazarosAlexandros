@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">A University student from Greece working on becoming a better Software/OS Engineer</h3>
 
-- 🔭 I’m currently working on [Text Editor](https://github.com/AltintzisLazarosAlexandros/Text_Editor)
+- 🔭 I’m currently working on [Lazux](https://github.com/AltintzisLazarosAlexandros/Lazux)
 
 - 📫 How to reach me **altalexandros@gmail.com**
 
